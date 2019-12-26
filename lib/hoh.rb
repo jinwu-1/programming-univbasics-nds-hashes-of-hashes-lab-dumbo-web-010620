@@ -37,12 +37,14 @@ def naming_system
         :Class => {
         }
       }
-    }
+    },
     :Class => {
-    }
+    },
     :Family => {
       :Genus => {
       }
+    },
+    :Species => {
     }
   ]
   # Remember:
