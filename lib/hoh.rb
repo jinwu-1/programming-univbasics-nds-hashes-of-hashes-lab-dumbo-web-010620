@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  hoh = [
+  hoh = {
     :label => "Kingdom",
       :sub_category => {
         :label => "Phylum",
@@ -54,7 +54,7 @@ def naming_system
               }
           }
       }
-  ]
+  }
   # Remember:
   #  Kingdom
   #  Phylum
